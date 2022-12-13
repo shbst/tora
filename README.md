@@ -15,16 +15,16 @@ https://github.com/tatyam-prime/SortedSet
 https://qiita.com/T_Wakasugi/items/dac6eb77a3cace54f95e
 
 ## 素因数分解
-[Primes](Primes)
+[素因数分解](Primes)
 
 https://note.nkmk.me/python-prime-factorization/
 
 ## 剰余算の逆元
-[Modinv](Modinv)
+[剰余算の逆元](Modinv)
 
 https://tex2e.github.io/blog/crypto/modular-mul-inverse
 
 ## 約数数え上げ
-[Divisors](Divisors)
+[約数数え上げ](Divisors)
 
 https://qiita.com/LorseKudos/items/9eb560494862c8b4eb56
