@@ -1,4 +1,5 @@
-# 使い方
+# Union Find
+## 使い方
 
 ```Python
 n = 5
@@ -14,7 +15,7 @@ uf.same(1, 2) #->returns bool
 uf.same(1, 3)
 ```
 
-# コード
+## コード
 ```Python
 from collections import defaultdict
 
