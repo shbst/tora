@@ -1,4 +1,5 @@
-# 使い方
+# 約数数え上げ
+## 使い方
 ```Python
 l = make_divisors(36)
 #->[1, 2, 3, 4, 6, 9, 12, 18, 36]
@@ -7,7 +8,7 @@ l = make_divisors(1)
 #->[1]
 ```
 
-# コード
+## コード
 ```Python
 def make_divisors(n):
     lower_divisors , upper_divisors = [], []
