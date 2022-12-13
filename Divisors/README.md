@@ -1,4 +1,5 @@
 # 約数数え上げ
+計算量 $O\sqrt{N}$
 ## 使い方
 ```Python
 l = make_divisors(36)
