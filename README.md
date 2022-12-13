@@ -2,6 +2,7 @@
 すべてネットから流用
 
 ## Union Find
+UnionFind(UnionFind)
 https://amateur-engineer-blog.com/union-find/
 
 ## Sorted Set
