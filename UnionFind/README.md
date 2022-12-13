@@ -1,6 +1,6 @@
 # 使い方
 
-```
+```Python
 n = 5
 uf = UnionFind(n)
 uf.unite(1, 2)
@@ -15,7 +15,7 @@ uf.same(1, 3)
 ```
 
 # コード
-```
+```Python
 from collections import defaultdict
 
 class UnionFind():
