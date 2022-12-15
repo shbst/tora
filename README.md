@@ -14,10 +14,11 @@ https://github.com/tatyam-prime/SortedSet
 ## heapq
 https://qiita.com/T_Wakasugi/items/dac6eb77a3cace54f95e
 
-## 素因数分解
+## 素因数分解・エラトステネスの篩（素数列挙）
 [素因数分解](Primes)
 
 https://note.nkmk.me/python-prime-factorization/
+https://kunassy.com/prime-factorization-python/
 
 ## 剰余算の逆元
 [剰余算の逆元](Modinv)
