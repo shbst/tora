@@ -41,6 +41,7 @@ def prime_factorize(n):
     return a
 ```
 # エラトステネスの篩
+計算量$O(N\log \log N)$
 ## 使い方
 ```Python
 n = 10
