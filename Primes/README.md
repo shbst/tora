@@ -40,3 +40,26 @@ def prime_factorize(n):
         a.append(n)
     return a
 ```
+# エラトステネスの篩
+## 使い方
+```Python
+n = 10
+is_prime = sieve(n)
+print(is_prime[5]) # True
+print(is_prime[10]) # False
+```
+
+## コード
+```Python
+import math
+
+# エラトステネスの篩
+def sieve(n):
+    is_prime = [True] * (n + 1)
+    is_prime[0], is_prime[1] = False, False
+    for i in range(2, int(math.sqrt(n)) + 1):
+        if is_prime[i]:
+            for j in range(2 * i, n + 1, i):
+                is_prime[j] = False
+    return is_prime
+```
