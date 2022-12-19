@@ -32,8 +32,11 @@ https://tex2e.github.io/blog/crypto/modular-mul-inverse
 https://qiita.com/LorseKudos/items/9eb560494862c8b4eb56
 
 ## その他メモ
-アルファベット
+アルファベット小文字
 ```Python
-abc = "abcdefghijklmnopqrstuvwxyz"
-ABC = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+abcdefghijklmnopqrstuvwxyz
+```
+大文字
+```Python
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
 ```
