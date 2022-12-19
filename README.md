@@ -30,3 +30,10 @@ https://tex2e.github.io/blog/crypto/modular-mul-inverse
 [約数数え上げ](Divisors)
 
 https://qiita.com/LorseKudos/items/9eb560494862c8b4eb56
+
+## その他メモ
+アルファベット
+```Python
+abc = "abcdefghijklmnopqrstuvwxyz"
+ABC = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+```
